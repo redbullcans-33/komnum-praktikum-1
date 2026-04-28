@@ -2,5 +2,5 @@
 |    NRP     |           Nama             |
 | :--------: |       :------------:       |
 | 5025251218 | Mushallina Dzikri Rozana   |
-| xxxxxxxxxx | xxxxxxx                    |
+| 5025251228 | Raden Roro Fabronita Sectia Farela                    |
 
